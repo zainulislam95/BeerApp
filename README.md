@@ -1,23 +1,26 @@
 # BeerApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
+BeerApp is a dynamic web application built using Angular. It provides users with detailed information about various beers, allowing them to explore, learn, and make informed choices about their favorite beverages. The project is designed to be easy to set up and run.
 
-## Getting Started
+## Features
 
-Follow these steps to clone, build, and run the project:
+- Explore a wide range of beer options.
+- View detailed information about each beer.
+- Responsive and user-friendly interface.
 
-### Prerequisites
+## Prerequisites
 
-Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (version 16 or later)
 - [Angular CLI](https://angular.io/cli) (version 19.2.8 or later)
 
+## Getting Started
+
 ### Clone the Repository
 
-To clone the repository, run:
+Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/zainulislam95/BeerApp
+git clone https://github.com/zainulislam95/BeerApp.git
 cd BeerApp
 ```
 
@@ -48,16 +51,6 @@ ng build
 ```
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running End-to-End Tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Note: Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
 
