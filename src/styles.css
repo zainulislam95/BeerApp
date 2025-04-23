@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+/* Align text to the right for items in .card-body */
+.card-body {
+  text-align: right;
+}
