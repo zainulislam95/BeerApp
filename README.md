@@ -2,7 +2,34 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
 
-## Development server
+## Getting Started
+
+Follow these steps to clone, build, and run the project:
+
+### Prerequisites
+
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (version 16 or later)
+- [Angular CLI](https://angular.io/cli) (version 19.2.8 or later)
+
+### Clone the Repository
+
+To clone the repository, run:
+
+```bash
+git clone https://github.com/zainulislam95/BeerApp
+cd BeerApp
+```
+
+### Install Dependencies
+
+Install the required dependencies by running:
+
+```bash
+npm install
+```
+
+### Start the Development Server
 
 To start a local development server, run:
 
@@ -12,23 +39,9 @@ ng serve
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+## Building the Project
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
+To build the project, run:
 
 ```bash
 ng build
@@ -36,15 +49,7 @@ ng build
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
+## Running End-to-End Tests
 
 For end-to-end (e2e) testing, run:
 
@@ -52,7 +57,7 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Note: Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
 
